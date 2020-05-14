@@ -38,6 +38,6 @@ print("Hello world")
 [IT Computer Homepage](http://it.jbnu.ac.kr)
 
 ### Usage
-1.Install C++
-2.Install protobuf
-3.Compile with G++
+1. Install C++
+2. Install protobuf
+3. Compile with G++
